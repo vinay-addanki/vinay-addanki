@@ -3,7 +3,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vinayaddanki)
 
-- 🔭 I’m currently working on **smicro-services professional class**
+- 🔭 I’m currently working on **software developer courses**
 
 - 👨‍💻 All of my projects are available soon
 
