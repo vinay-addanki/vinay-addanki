@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Addanki</h1>
-<h3 align="center">A passionate Software Engineer from Infosys in India</h3> 
+<h3 align="center">A passionate Software Engineer from India</h3> 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vinayaddanki)
 
