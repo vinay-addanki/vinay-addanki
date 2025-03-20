@@ -29,7 +29,7 @@
 
 <div align="center">
 <a href="https://github.com/vinayAddanki">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayAddanki&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinayAddanki&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinayAddanki&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinayAddanki&theme=2077" height="180em" />
